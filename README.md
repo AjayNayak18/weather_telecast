@@ -19,7 +19,7 @@ weather_telecast provides real-time weather updates in a user-friendly interface
 -git clone https://github.com/AjayNayak18/weather_telecast.git
 2. Navigate to the project directory:
 -cd weather_telecast
-3.3. Open `index.html` with your preferred web browser.
+3. Open `index.html` with your preferred web browser.
 
 ## Usage
 
